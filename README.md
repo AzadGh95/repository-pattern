@@ -1,1 +1,1 @@
-repository-pattern
+the best way to create a laravel project
